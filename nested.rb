@@ -95,7 +95,7 @@ def changing_alan
 	programmer_hash = 
  		{
       :grace_hopper => {
-        :known_for => "COBOL",
+        :known_for => "GUI",
         :languages => ["COBOL", "FORTRAN"]
       },
       :alan_kay => {
